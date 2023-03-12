@@ -1,0 +1,10 @@
+.container{
+    width: 90%;
+    max-width: 1304px;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+
+    @media (max-width: 768px) {
+        width: 95%;
+    }
+}
